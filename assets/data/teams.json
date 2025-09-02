@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "name": "America Mineiro",
+    "logo": "assets/images/america_mineiro.png"
+  },
+  {
+    "id": 2,
+    "name": "Amazonas Am",
+    "logo": "assets/images/amazonas_am.png"
+  },
+  {
+    "id": 3,
+    "name": "Athletic Club Mg",
+    "logo": "assets/images/athletic_club_mg.png"
+  },
+  {
+    "id": 4,
+    "name": "Athletico Paranaense",
+    "logo": "assets/images/athletico_paranaense.png"
+  }
+]
